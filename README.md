@@ -1,2 +1,2 @@
 # Android-Devlopments
-Necessary apps ,softwares and tools for android rom developments
+Necessary blogs,books,pdfs, apps ,softwares and tools for android rom developments
